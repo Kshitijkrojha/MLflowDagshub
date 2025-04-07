@@ -1,0 +1,7 @@
+## ML FLow experiements
+
+MLFLOW_TRACKING_URI=
+MLFLOW_TRACKING_USERNAME=
+MLFLOW_TRACKING_PASSWORD=
+python script.py
+
